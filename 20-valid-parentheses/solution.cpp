@@ -1,4 +1,4 @@
-// 0 ms | 9 MB
+// 0 ms | 8.8 MB
 class Solution {
 public:
     bool isValid(string s) {
