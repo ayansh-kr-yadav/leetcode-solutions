@@ -1,7 +1,7 @@
 # leetcode-solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 17 (Easy: 5, Medium: 7, Hard: 4)
+Solved: 18 (Easy: 6, Medium: 7, Hard: 4)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,6 +14,7 @@ Solved: 17 (Easy: 5, Medium: 7, Hard: 4)
 | 462 | [Minimum Moves to Equal Array Elements II](462-minimum-moves-to-equal-array-elements-ii/) | Medium | 2026-11-03 |
 | 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/) | Medium | 2026-11-03 |
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | Medium | 2026-11-03 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-03 |
 | 3841 | [Palindromic Path Queries in a Tree](3841-palindromic-path-queries-in-a-tree/) | Hard | 2026-11-03 |
 | 856 | [Score of Parentheses](856-score-of-parentheses/) | Medium | 2026-11-03 |
 | 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-11-03 |
@@ -21,5 +22,5 @@ Solved: 17 (Easy: 5, Medium: 7, Hard: 4)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-03 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-03 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-11-03 |
-| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-03 |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/) | Easy | 2026-11-03 |
 <!-- LEETHUB:TABLE:END -->
