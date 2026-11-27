@@ -1,7 +1,7 @@
 # leetcode-solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 6, Medium: 9, Hard: 5)
+Solved: 22 (Easy: 6, Medium: 9, Hard: 6)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -20,10 +20,11 @@ Solved: 21 (Easy: 6, Medium: 9, Hard: 5)
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-27 |
 | 3841 | [Palindromic Path Queries in a Tree](3841-palindromic-path-queries-in-a-tree/) | Hard | 2026-11-27 |
 | 856 | [Score of Parentheses](856-score-of-parentheses/) | Medium | 2026-11-27 |
+| 3934 | [Smallest Unique Subarray](3934-smallest-unique-subarray/) | Hard | 2026-11-27 |
 | 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | Hard | 2026-11-27 |
 | 2778 | [Sum of Squares of Special Elements ](2778-sum-of-squares-of-special-elements/) | Easy | 2026-11-27 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-27 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-11-27 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-11-27 |
-| 3934 | [Smallest Unique Subarray](3934-smallest-unique-subarray/) | Hard | 2026-11-27 |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | 2026-11-27 |
 <!-- LEETHUB:TABLE:END -->
